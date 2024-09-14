@@ -10,6 +10,10 @@
 - [x] Visibilidade de atributos
 - [x] Interação por console
 - [x] Encapsulamento
+- [x] Controle de Fluxo
+- [x] Exceções customizadas
+- [x] Laços de reptição
+- [x]Try/Catch
 
 ---
 
